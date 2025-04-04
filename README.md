@@ -23,7 +23,8 @@
 
 5. Reflects real-world business intelligence scenarios tailored to retail analytics.
 
-Repository Struture
+# Repository Struture
+
 Data used
 
 Dashboard - Excel
